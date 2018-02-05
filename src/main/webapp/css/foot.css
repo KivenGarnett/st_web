@@ -1,0 +1,35 @@
+/*初始化*/
+*{ font-family:"微软雅黑";
+   font-size:14px;}
+body{ margin:0;}
+ul,li{ margin:0; 
+	   padding:0;}
+li{ list-style:none;}
+p{ margin:0;}
+h1,h2,h3,h4,h5,h6{ margin:0;
+				   padding:0;}
+a{ text-decoration:none;}
+input{ margin:0; padding:0; border:none; outline:none;}
+.clearfix{ clear:both;}
+img{ display:block;}
+/*声明区*/
+.bg-shengming{ background:black;
+			   height:55px;
+			   border-top:2px solid #EF2F65;}
+.shengmingbox{ width:800px;
+			   margin:0 auto;}		
+.shengmingbox a{float:left;
+			    line-height:55px;
+			    color:white;
+			    height:20px;
+				margin-left:10px;
+			    text-align:center;} 
+/*copy区*/
+.bg-copy{ height:70px;
+		  background:#303030;}
+.nr-copy{ margin:0 auto;
+		  padding-top:15px;
+	      width:700px;
+		  text-align:center;
+		  font-size:12px;
+		  color:white;}
